@@ -1,0 +1,5 @@
+Here is a message that can be sent.
+This is another example message.
+Messages can have links too, like me. https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/5c837aac7c42de1f9f125cff37ab2c70-1612076004546/fiverr-og-logo.png
+The links can be of images, gifs, whatever.
+These messages will look like as if you were copying and pasting them in discord manually.
